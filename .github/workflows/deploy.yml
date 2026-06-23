@@ -1,4 +1,4 @@
-nname: Deploy to SFTP
+name: Deploy to SFTP
 on:
   push:
     branches: [main]
